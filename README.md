@@ -32,7 +32,7 @@ Welcome to my **Helmet Safety Detection** project - my submission for the first 
 ## The predicted image of this model
 
 The model will annotate the image with bounding boxes around persons and helmets detected, along with confidence scores.
-![Markdown](https://drive.google.com/file/d/15TZbaPcx0RV7JyxsBmyR0cNXUyiqtAav/view?usp=sharing)
+![Markdown](https://github.com/HungNguyenHcmue/Helmet-Safety-Detection/blob/feature/project-YOLOv10/Data/Output.jpg)
 ## Conclusion
 
 Thanks very much for checking out the Helmet Safety Detection project! I hope that you had a great experience. If you have any questions or feedback, feel free to reach out.
